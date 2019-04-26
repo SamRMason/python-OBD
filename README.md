@@ -1,6 +1,8 @@
 python-OBD
 ==========
 
+Created by Brendan W. Forked by Sam M. on April 26, 2019
+
 A python module for handling realtime sensor data from OBD-II vehicle
 ports. Works with ELM327 OBD-II adapters, and is fit for the Raspberry
 Pi.
